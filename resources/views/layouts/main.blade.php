@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="/img/logo.svg" type="image/x-icon">
 
         <!-- CSS -->
         <link rel="stylesheet" href="/css/styles.css">
@@ -22,7 +23,7 @@
             <nav class="navbar navbar-expand-lg nav">
                 <div class="collapse navbar-collapse" id="navbar">
                     <a href="/" class="navbar-brand">
-                    <img src="/img/aka.svg" alt="TH Events">
+                    <img src="/img/logo.svg" alt="TH Events">
                     </a>
                     <ul class="navbar-nav">
                         <li class="nav-item">
